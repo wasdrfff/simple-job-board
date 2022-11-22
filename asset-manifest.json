@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/simple-job-board/static/css/main.c3a120a2.css",
+    "main.js": "/simple-job-board/static/js/main.7be19ec6.js",
+    "static/js/787.8599bda3.chunk.js": "/simple-job-board/static/js/787.8599bda3.chunk.js",
+    "static/media/right-arrow.svg": "/simple-job-board/static/media/right-arrow.27429cedd24db344b884ee6b993d869f.svg",
+    "static/media/left-arrow.svg": "/simple-job-board/static/media/left-arrow.a3fb7181556261bfb5da1b4b6afbcf36.svg",
+    "static/media/star.svg": "/simple-job-board/static/media/star.77121bc4ef3a8501559af2de2533bab7.svg",
+    "static/media/share.svg": "/simple-job-board/static/media/share.511dbc96eb9623676e9fb4bfc259306b.svg",
+    "index.html": "/simple-job-board/index.html",
+    "static/media/arrow.svg": "/simple-job-board/static/media/arrow.1395908cf464044e3b3621154cf00570.svg",
+    "static/media/marker.svg": "/simple-job-board/static/media/marker.6efa16637f96e621794cc1d2791a0384.svg",
+    "static/media/tab.svg": "/simple-job-board/static/media/tab.aade3c9199f4df96cd9b23872700fade.svg",
+    "static/media/location.svg": "/simple-job-board/static/media/location.6bf976aded95ba0ce16ba51138a9118f.svg",
+    "main.c3a120a2.css.map": "/simple-job-board/static/css/main.c3a120a2.css.map",
+    "main.7be19ec6.js.map": "/simple-job-board/static/js/main.7be19ec6.js.map",
+    "787.8599bda3.chunk.js.map": "/simple-job-board/static/js/787.8599bda3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c3a120a2.css",
+    "static/js/main.7be19ec6.js"
+  ]
+}
